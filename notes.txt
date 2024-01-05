@@ -1,0 +1,9 @@
+- When should we use asynchronous code
+   there are mainly four reasons:
+     1. do a network call
+     2. sleep/wait for some time
+     3. read a file
+     4.  database call
+   otherwise we do synchronous code
+
+
